@@ -6,6 +6,6 @@ Including my leetcode solutions here to share and consolidate. I'll include the 
 
 Problems: 
 
-[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  [Solution](https://github.com/madbanter/leetcode/blob/master/13.%20Roman%20to%20Integer.js)
+[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) -  [Solution](https://github.com/madbanter/leetcode/blob/master/13.%20Roman%20to%20Integer.js)
 
-[121. Best Time To Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [Solution]
+[121. Best Time To Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - [Solution](https://github.com/madbanter/leetcode/blob/master/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)
