@@ -24,13 +24,32 @@ function ListNode(val, next) {
 }
 
 var reverseList = function(head) {
+  if (head.next === null) {
+    return head;
+  }
   let cursor = head;
-  let newTail = null;
-  while (cursor.next !== newTail) {
+  let stacked = [];
+  while (cursor !== null) {
+    stacked.push(cursor);
+    cursor = cursor.next;
+  }
+  let newHead = stacked.pop();
+  cursor = newHead;
+  while (stacked.length > 0) {
+    cursor.next = stacked.pop();
+    cursor = cursor.next;
+  }
+  cursor.next = null;
+  return newHead;
+};
+
+var reverseList2 = function(head) {
+  let cursor = head;
+  while (cursor.next !== null) {
     cursor = cursor.next;
   }
   let newHead = cursor;
-  newTail = cursor;
+  let newTail = cursor;
   while (newTail !== head) {
     cursor = head;
     while (cursor.next !== newTail) {
