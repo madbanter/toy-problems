@@ -13,6 +13,8 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/productExceptSelf.js)
 
+[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/validAnagram.js)
+
 [Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/containsDuplicate.js)
 
 #####HackerRank:
