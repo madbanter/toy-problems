@@ -22,19 +22,24 @@ Please solve it without division and in O(n). All products fit into a 32-bit int
 
 var productExceptSelf = function(head) {
   let output = [];
-  let multiply = (number, index, input, output) => {
-    for (let i = 0; i < input.length; i++) {
-      if (i !== index) {
-        if (!isNaN(output[i])) {
-          output[i] = output[i] * number;
-        } else {
-          output[i] = number;
-        }
-      }
-    }
+  let pre = [];
+  let post = [];
+
+  let preProd = 1;
+  let postProd = 1;
+  for (let i = 0; i < head.length; i++) {
+    preProd *= head[i];
+    postProd *= head[head.length - i - 1];
+    pre[i] = preProd;
+    post[head.length - i - 1] = postProd;
   }
-  head.forEach((item, pos, input) => {
-    multiply(item, pos, input, output);
-  })
+
+  for (let i = 1; i < head.length - 1; i++) {
+    output[i] = pre[i - 1] * post[i + 1];
+  }
+
+  output[0] = post[1];
+  output[head.length - 1] = pre[head.length - 2];
+
   return output;
 };

@@ -11,6 +11,10 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [121. Best Time To Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)
 
+[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/productExceptSelf.js)
+
+[Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/containsDuplicate.js)
+
 #####HackerRank:
 [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/timeInWords.py)
 
@@ -20,3 +24,4 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 [Beautiful String](https://github.com/madbanter/toy-problems/blob/master/beautifulString.js)
 
 [Reverse Linked List](https://github.com/madbanter/toy-problems/blob/master/reverseList.js)
+
