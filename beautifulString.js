@@ -15,11 +15,11 @@ function isBeautifulString(inputString) {
   const alphabet = 'abcdefghijklmnopqrstuvwxyz';
   let counts = countLetters(inputString);
   for (let letter of inputString) {
-      let letterCount = counts[letter];
-      let prevLetterCount = counts[alphabet[alphabet.indexOf(letter) - 1]] || 0;
-      if (letter !== 'a' && letterCount > prevLetterCount) {
-          return false;
-      }
+    let letterCount = counts[letter];
+    let prevLetterCount = counts[alphabet[alphabet.indexOf(letter) - 1]] || 0;
+    if (letter !== 'a' && letterCount > prevLetterCount) {
+      return false;
+    }
   }
   return true;
 }
@@ -27,12 +27,12 @@ function isBeautifulString(inputString) {
 const countLetters = (string) => {
   let counts = {};
   for (let i = 0; i < string.length; i++) {
-      let letter = string[i];
-      if (!counts[letter]) {
-          counts[letter] = 1;
-      } else {
-          counts[letter] += 1;
-      }
+    let letter = string[i];
+    if (!counts[letter]) {
+      counts[letter] = 1;
+    } else {
+      counts[letter] += 1;
+    }
   }
   return counts;
 };
