@@ -22,7 +22,9 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/arrayManipulation.py)
 
-[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem) [Solution](https://github.com/madbanter/toy-problems/blob/master/maximumElement.py)
+[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/maximumElement.py)
+
+[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/balancedBrackets.py)
 
 #####Misc: 
 [Array Degree](https://github.com/madbanter/toy-problems/blob/master/arrayDegree.js)
