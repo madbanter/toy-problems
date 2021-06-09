@@ -26,6 +26,8 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/balancedBrackets.py)
 
+[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/cycleDetection.py)
+
 #####Misc: 
 [Array Degree](https://github.com/madbanter/toy-problems/blob/master/arrayDegree.js)
 
