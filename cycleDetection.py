@@ -98,7 +98,7 @@ def print_singly_linked_list(node, sep, fptr):
 
 def has_cycle(head):
     cursor = head
-    if cursor is not None:
+    if cursor is None:
         return 0
     faster = cursor.next
     while faster.next is not None:
