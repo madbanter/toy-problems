@@ -22,7 +22,11 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/arrayManipulation.py)
 
-[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem) [Solution](https://github.com/madbanter/toy-problems/blob/master/maximumElement.py)
+[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/maximumElement.py)
+
+[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/balancedBrackets.py)
+
+[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/cycleDetection.py)
 
 [Fraudulent Activity Alerts](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/fraudulentActivityAlerts.py)
 
