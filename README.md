@@ -30,10 +30,17 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [Fraudulent Activity Alerts](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/fraudulentActivityAlerts.py)
 
+#####CodeSignal:
+[Reverse In Parentheses](https://app.codesignal.com/arcade/intro/level-3/9DgaPsE2a7M6M2Hu6/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/reverseInParentheses.py)
+
+
 #####Misc: 
 [Array Degree](https://github.com/madbanter/toy-problems/blob/master/arrayDegree.js)
 
 [Beautiful String](https://github.com/madbanter/toy-problems/blob/master/beautifulString.js)
 
-[Reverse Linked List](https://github.com/madbanter/toy-problems/blob/master/reverseList.js)
+[Find Longest Substring - JavaScript](https://github.com/madbanter/toy-problems/blob/master/findLongestSubstring.js) - [Find Longest Substring - Python](https://github.com/madbanter/toy-problems/blob/master/findLongestSubstring.py)
 
+[Naive String Search](https://github.com/madbanter/toy-problems/blob/master/naiveStringSearch.js)
+
+[Reverse Linked List](https://github.com/madbanter/toy-problems/blob/master/reverseList.js)
