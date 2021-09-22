@@ -17,8 +17,8 @@ var isAnagram = function(s, t) {
   }
   
   for (let i = 0; i < s.length; i++) {
-    if (countsS[s[i]] !== countsT[s[i]] || countsS[t[i]] !== countsT[t[i]]) {
-        return false;
+    if (countsS[s[i]] !== countsT[s[i]]) {
+      return false;
     }
   }
     
