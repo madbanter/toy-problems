@@ -30,6 +30,8 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [Fraudulent Activity Alerts](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/fraudulentActivityAlerts.py)
 
+[Equalize Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/equalizeArray.py)
+
 #####CodeSignal:
 [Reverse In Parentheses](https://app.codesignal.com/arcade/intro/level-3/9DgaPsE2a7M6M2Hu6/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/reverseInParentheses.py)
 
