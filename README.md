@@ -32,6 +32,8 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [Equalize Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/equalizeArray.py)
 
+[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/acmTeam.py)
+
 #####CodeSignal:
 [Reverse In Parentheses](https://app.codesignal.com/arcade/intro/level-3/9DgaPsE2a7M6M2Hu6/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/reverseInParentheses.py)
 
