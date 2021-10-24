@@ -34,6 +34,8 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/acmTeam.py)
 
+[Array Pair Minimum Distance](https://www.hackerrank.com/challenges/minimum-distances/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/arrayPairMinDistance.py)
+
 #####CodeSignal:
 [Reverse In Parentheses](https://app.codesignal.com/arcade/intro/level-3/9DgaPsE2a7M6M2Hu6/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/reverseInParentheses.py)
 
