@@ -41,6 +41,9 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 #####CodeSignal:
 [Reverse In Parentheses](https://app.codesignal.com/arcade/intro/level-3/9DgaPsE2a7M6M2Hu6/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/reverseInParentheses.py)
 
+[Sudoku](https://app.codesignal.com/arcade/intro/level-12/tQgasP8b62JBeirMS) - [Solution](https://github.com/madbanter/toy-problems/blob/master/sudoku_checker.py)
+
+
 #####Daily Coding Problem:
 [Array Sum Target](https://github.com/madbanter/toy-problems/blob/master/arraySumTarget.py)
 
