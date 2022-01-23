@@ -38,6 +38,8 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/fairRations.py)
 
+[Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/frequencyQueries.js)
+
 #####CodeSignal:
 [Reverse In Parentheses](https://app.codesignal.com/arcade/intro/level-3/9DgaPsE2a7M6M2Hu6/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/reverseInParentheses.py)
 
