@@ -23,7 +23,7 @@ function ListNode(val, next) {
   this.next = (next===undefined ? null : next)
 }
 
-var reverseList = function(head) {
+var reverseListStack = function(head) {
   if (head.next === null) {
     return head;
   }
@@ -43,21 +43,22 @@ var reverseList = function(head) {
   return newHead;
 };
 
-var reverseList2 = function(head) {
+var reverseList = function(head) {
   let cursor = head;
-  while (cursor.next !== null) {
+  while (cursor !== null) {
     cursor = cursor.next;
   }
   let newHead = cursor;
-  let newTail = cursor;
-  while (newTail !== head) {
-    cursor = head;
-    while (cursor.next !== newTail) {
-      cursor = cursor.next;
-    }
-    newTail.next = cursor;
-    newTail = newTail.next;
-  }
-  newTail.next = null;
-  return newHead;
+  let newTail = head;
+  cursor = newTail.next
+	let prev = newTail;
+	while (cursor.next !== null) {
+		let next = cursor.next;
+		cursor.next = prev;
+		prev = cursor;
+		cursor = next;
+	}
+	newTail.next = null;
+	return newHead;
 };
+
