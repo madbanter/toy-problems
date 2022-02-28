@@ -40,6 +40,8 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/frequencyQueries.js)
 
+[Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/sherlockValid.js)
+
 #####CodeSignal:
 [Reverse In Parentheses](https://app.codesignal.com/arcade/intro/level-3/9DgaPsE2a7M6M2Hu6/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/reverseInParentheses.py)
 
