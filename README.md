@@ -60,4 +60,6 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [Naive String Search](https://github.com/madbanter/toy-problems/blob/master/naiveStringSearch.js)
 
+[OT Catchup Validation](https://otcatchup.util.repl.co/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/otCatchupValidation.js)
+
 [Reverse Linked List](https://github.com/madbanter/toy-problems/blob/master/reverseList.js)
