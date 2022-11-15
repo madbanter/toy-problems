@@ -51,6 +51,8 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 #####Daily Coding Problem:
 [Array Sum Target](https://github.com/madbanter/toy-problems/blob/master/arraySumTarget.py)
 
+[Valid Sequences](https://github.com/madbanter/toy-problems/blob/master/valid_sequenes.py)
+
 #####Misc: 
 [Array Degree](https://github.com/madbanter/toy-problems/blob/master/arrayDegree.js)
 
