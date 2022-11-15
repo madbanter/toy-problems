@@ -47,8 +47,9 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [Sudoku](https://app.codesignal.com/arcade/intro/level-12/tQgasP8b62JBeirMS) - [Solution](https://github.com/madbanter/toy-problems/blob/master/sudoku_checker.py)
 
-
 #####Daily Coding Problem:
+[Active Delivery Time](https://github.com/madbanter/toy-problems/blob/master/active_delivery_time.py)
+
 [Array Sum Target](https://github.com/madbanter/toy-problems/blob/master/arraySumTarget.py)
 
 [Number of Digits - JavaScript](https://github.com/madbanter/toy-problems/blob/master/numDigits.js) - [Number of Digits - Python](https://github.com/madbanter/toy-problems/blob/master/num_digits.py)
