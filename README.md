@@ -51,6 +51,8 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 #####Daily Coding Problem:
 [Array Sum Target](https://github.com/madbanter/toy-problems/blob/master/arraySumTarget.py)
 
+[Number of Digits - JavaScript](https://github.com/madbanter/toy-problems/blob/master/numDigits.js) - [Number of Digits - Python](https://github.com/madbanter/toy-problems/blob/master/num_digits.py)
+
 [String Frequency Sort](https://github.com/madbanter/toy-problems/blob/master/string_frequency_sort.py)
 
 [Valid Subsequences](https://github.com/madbanter/toy-problems/blob/master/valid_subsequenes.py)
