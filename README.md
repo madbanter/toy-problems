@@ -56,6 +56,9 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [String Frequency Sort](https://github.com/madbanter/toy-problems/blob/master/string_frequency_sort.py)
 
+[Strobogrammatic Number](https://github.com/madbanter/toy-problems/blob/master/strobogrammatic_number.py)
+
+
 [Valid Subsequences](https://github.com/madbanter/toy-problems/blob/master/valid_subsequenes.py)
 
 #####Misc: 
