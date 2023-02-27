@@ -75,3 +75,5 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 [OT Catchup Validation](https://otcatchup.util.repl.co/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/otCatchupValidation.js)
 
 [Reverse Linked List](https://github.com/madbanter/toy-problems/blob/master/reverseList.js)
+
+[Selection Sort](https://github.com/madbanter/toy-problems/blob/master/selection_sort.py)
