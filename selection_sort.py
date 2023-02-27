@@ -1,5 +1,5 @@
 def selection_sort(input_list):
-    for index in range(len(input_list)):
+    for index in range(len(input_list) - 1):
         smallest = find_smallest(input_list[index:], index)
         if smallest != index:
             input_list[smallest], input_list[index] = (
