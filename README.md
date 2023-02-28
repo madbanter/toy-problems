@@ -68,6 +68,8 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [Beautiful String](https://github.com/madbanter/toy-problems/blob/master/beautifulString.js)
 
+[Binary Search](https://github.com/madbanter/toy-problems/blob/master/binary_search.py)
+
 [Find Longest Substring - JavaScript](https://github.com/madbanter/toy-problems/blob/master/findLongestSubstring.js) - [Find Longest Substring - Python](https://github.com/madbanter/toy-problems/blob/master/findLongestSubstring.py)
 
 [Naive String Search](https://github.com/madbanter/toy-problems/blob/master/naiveStringSearch.js)
