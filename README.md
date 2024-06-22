@@ -18,7 +18,8 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/containsDuplicate.js)
 
-#####HackerRank:
+##### HackerRank:
+
 [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/timeInWords.py)
 
 [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) - [Solution](https://github.com/madbanter/toy-problems/blob/master/arrayManipulation.py)
