@@ -10,6 +10,12 @@ Including my toy problem solutions here to share and consolidate. I'll include t
 
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/13.%20Roman%20to%20Integer.js)
 
+[27. Remove Element](https://leetcode.com/problems/remove-element/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/27.%20Remove%20Element.py)
+
+[28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.py)
+
+[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/36.%20Valid%20Sudoku.py)
+
 [121. Best Time To Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - [Solution](https://github.com/madbanter/toy-problems/blob/master/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)
 
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - [JavaScript Solution](https://github.com/madbanter/toy-problems/blob/master/productExceptSelf.js) - [Python Solution](https://github.com/madbanter/toy-problems/blob/master/productExceptSelf.py)
